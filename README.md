@@ -1,11 +1,23 @@
 # Cricket-Analysis-Power-BI-dashboard-
 
- Project Overview
+T20 World Cup Cricket Data Analysis
 
-In this project, we will leverage web scraping techniques to gather valuable data from the ESPN Cricinfo website, specifically focusing on T20 World Cup cricket data. This data will be processed and analyzed using Python, with the Pandas library employed for data manipulation and cleaning. The project will involve:
+Project Overview
 
-- Web Scraping: Using web scraping techniques (with libraries like BeautifulSoup and Requests) to extract detailed data from the ESPN Cricinfo website related to T20 World Cup matches, player statistics, team performances, and tournament results.
-- Data Processing with Python and Pandas: Once the data is collected, Python and Pandas will be utilized for data cleaning, transformation, and analysis. This will include tasks like handling missing values, data normalization, and aggregating statistics to generate insightful metrics.
-- Data Visualization and Reporting with Power BI: After processing the data, it will be imported into Power BI for advanced data visualization and reporting. Power BI will be used to create interactive dashboards and insightful visualizations to help uncover patterns and trends in the T20 World Cup data, enabling better decision-making and analysis.
+This project focuses on analyzing T20 World Cup cricket data, where we utilize web scraping, Python, Pandas, and Power BI to gather, process, and visualize data. The steps in this project include:
+
+1. Web Scraping 
+We use web scraping techniques to collect data from the ESPN Cricinfo website. The data includes match statistics, player performance, team results, and more. Python libraries such as BeautifulSoup and Requests will be employed to extract the necessary data from the website.
+
+2. Data Processing with Python and Pandas 
+After gathering the data, we process and clean it using Python and Pandas. The data cleaning involves handling missing values, transforming data formats, and aggregating statistics to make the dataset ready for analysis.
+
+3. Data Visualization and Reporting with Power BI 
+Once the data is processed, it is imported into Power BI for advanced visualization. The project involves creating interactive dashboards and insightful reports that highlight trends, player performances, team statistics, and match outcomes.
+
+By the end of this project, you'll have a well-structured dataset and a set of visual reports that provide an in-depth look at the T20 World Cup performances.
+
+
+
 
 
